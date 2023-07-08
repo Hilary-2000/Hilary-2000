@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hillary Ngige a software developer at Ladybird Softech Co.
+- 👋 Hi, I’m Hillary Ngige.
 - 👀 I’m interested in creating solutions using softwares.
 - 🌱 I’m a full stack webdeveloper proficient in HTML, PHP, Javascript, CSS, SCSS, Laravel Framework, Java and AWS
 - Currently sharpening my skills on JS frontend framework React.JS and Angular.JS
