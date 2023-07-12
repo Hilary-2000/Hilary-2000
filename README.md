@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hillary Ngige.
 - 👀 I’m interested in creating solutions using softwares.
-- 🌱 I’m a full stack webdeveloper proficient in HTML, PHP, Javascript, CSS, SCSS, Laravel Framework, Java and AWS
+- 🌱 I’m a full stack webdeveloper proficient in HTML, PHP, Javascript, CSS, SCSS, Laravel Framework, Java
 - Currently sharpening my skills on JS frontend framework React.JS and Angular.JS
 - 📫 How to reach me hilaryme45@gmail.com or mail@ladybirdsmis.com
 - If you want work done on the fields mentioned above dont hesitate to get intouch with me!
